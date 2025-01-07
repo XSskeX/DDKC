@@ -1,0 +1,13 @@
+{
+  "bits": 4,
+  "group_size": 128,
+  "damp_percent": 0.01,
+  "desc_act": false,
+  "static_groups": false,
+  "sym": true,
+  "true_sequential": true,
+  "model_name_or_path": "C:/Users/HP/Desktop/qwen/QWEN_AUTOGPTQ",
+  "model_file_base_name": "gptq_model-4bit-128g",
+  "quant_method": "gptq",
+  "checkpoint_format": "gptq"
+}

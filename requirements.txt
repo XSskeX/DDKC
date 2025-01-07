@@ -1,0 +1,10 @@
+auto_gptq.egg==info
+datasets==3.1.0
+jsonlines==4.0.0
+numpy==1.24.3
+openai==1.59.3
+pandas==2.0.3
+plotly==5.24.1
+safetensors==0.5.1
+torch==2.4.1+cu124
+transformers==4.46.2
